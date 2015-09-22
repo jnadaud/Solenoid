@@ -1,0 +1,40 @@
+#### \Solenoid\Validator ####
+
+//CreditCard
+"'%s' seems to contain an invalid checksum";"'%s' no parece contener una suma de validación correcta"
+"'%s' must contain only digits";"'%s' solo puede contener dígitos"
+"Invalid type given. String expected";"Tipo invalido. Un tipo cadena es esperado"
+"'%s' contains an invalid amount of digits";"'%s' no contiene una cantidad de dígitos valida"
+"'%s' is not from an allowed institute";"'%s' no pertenece a ninguna tarjeta de credito de entidad valida"
+"'%s' seems to be an invalid creditcard number";"'%s' parece ser un número de tarjeta erroneo"
+"An exception has been raised while validating '%s'";"Una exception surgió mientras se intentaba validar '%s'"
+
+//Database
+"The value already exist in database";"El valor ya existe en base de datos"
+"The value does not exist in database";"El valor no existe en base de datos"
+
+//EmailAddress
+"'%s' does not seem to be avalid email address";"'%s' no parece ser una dirección de correo electrónico válida"
+"'%s' does not appear to have a valid MX record";"'%s' no parece contener unos registros MX válidos"
+
+//EqualsTo
+"Values are not equals";"Los valores no son identicos"
+
+//Int
+"'%s' does not have a valid numeric format";"'%s' no parece tener un formato numérico válido"
+"'%s' does not have a valid integer format";"'%s' no parece tener un formato entero válido"
+
+//Not empty
+"The value can\'t be empty";"El valor no puede ser vacío"
+
+//NotEqualsTo
+"Values are equals";"Los valores son iguales"
+
+//Numeric
+"'%s' does not have a valid numeric format";"'%s' no parece tener un formato numérico válido"
+
+//Required
+"The value is required";"El valor es requerido"
+
+//Date
+"You must be a least %d years old";"Debe de tener como minimo %s años"
